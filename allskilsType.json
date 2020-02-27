@@ -1,0 +1,19 @@
+{
+    "types": [
+        {
+            "description": "Hard skills are unique (or technical) skills related to a specialty.",
+            "id": "H",
+            "name": "Hard Skill"
+        },
+        {
+            "description": "Certification skills are recognizable qualification standards assigned by industry or education bodies.",
+            "id": "C",
+            "name": "Certification"
+        },
+        {
+            "description": "Soft skills are common (or human) skills which are broad statements of ability.",
+            "id": "S",
+            "name": "Soft Skill"
+        }
+    ]
+}

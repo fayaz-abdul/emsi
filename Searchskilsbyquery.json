@@ -1,0 +1,254 @@
+{
+    "skills": [
+        {
+            "type": "Hard Skill",
+            "id": "KS125RZ5X2MBLVC6F634",
+            "name": "Lean Manufacturing"
+        },
+        {
+            "type": "Hard Skill",
+            "id": "KS1219P6MRT9KQQKGRYH",
+            "name": "Good Manufacturing Practices"
+        },
+        {
+            "type": "Hard Skill",
+            "id": "KS1264K793QY5Q1BSXNF",
+            "name": "Manufacturing Processes"
+        },
+        {
+            "type": "Hard Skill",
+            "id": "KS1264K6H25TN148KW1R",
+            "name": "Manufacturing Operations"
+        },
+        {
+            "type": "Hard Skill",
+            "id": "KS1264H778JLQY5FK48G",
+            "name": "Manufacturing Engineering"
+        },
+        {
+            "type": "Hard Skill",
+            "id": "KS128227056JR6YW8TKZ",
+            "name": "Process Manufacturing"
+        },
+        {
+            "type": "Hard Skill",
+            "id": "KS120T76DT4W0DVSRNW6",
+            "name": "Automotive Manufacturing"
+        },
+        {
+            "type": "Hard Skill",
+            "id": "KS122WQ67636X0VPFJJ6",
+            "name": "Design For Manufacturability (Industrial Design)"
+        },
+        {
+            "type": "Hard Skill",
+            "id": "KS127R36VZ94GKYF7G97",
+            "name": "Pharmaceutical Manufacturing"
+        },
+        {
+            "type": "Hard Skill",
+            "id": "KS121BY6K99L7MVPZYDX",
+            "name": "Computer-Aided Manufacturing"
+        },
+        {
+            "type": "Hard Skill",
+            "id": "KS123FF6ZJD7NDMHW0WL",
+            "name": "Electronics Manufacturing"
+        },
+        {
+            "type": "Hard Skill",
+            "id": "KS1208J6M2HW5LQSVTJ6",
+            "name": "Advanced Manufacturing"
+        },
+        {
+            "type": "Hard Skill",
+            "id": "KS1282M6F1P14W4FQDPT",
+            "name": "Product And Manufacturing Information"
+        },
+        {
+            "type": "Hard Skill",
+            "id": "KS126DN6K1ZBGMMZ7DV5",
+            "name": "Manufacturing Execution System (MES)"
+        },
+        {
+            "type": "Hard Skill",
+            "id": "ES4E3E980EF58B1E3CB1",
+            "name": "Medical Device Manufacturing"
+        },
+        {
+            "type": "Hard Skill",
+            "id": "KS1276W6N38QJ2XZ1GCC",
+            "name": "Original Equipment Manufacturer"
+        },
+        {
+            "type": "Hard Skill",
+            "id": "KS122C56RJSJDV96P3L4",
+            "name": "Continuous-Flow Manufacturing"
+        },
+        {
+            "type": "Hard Skill",
+            "id": "KS1206C61PVXSBBFM58L",
+            "name": "Additive Manufacturing"
+        },
+        {
+            "type": "Hard Skill",
+            "id": "KS6853Z778YHT7WJ0ZP4",
+            "name": "Threading (Manufacturing)"
+        },
+        {
+            "type": "Hard Skill",
+            "id": "KS1240465DXQLR6GRPQJ",
+            "name": "Flexible Manufacturing Systems"
+        },
+        {
+            "type": "Hard Skill",
+            "id": "KS122CJ6NBTD460SQMCM",
+            "name": "Contract Manufacturing"
+        },
+        {
+            "type": "Hard Skill",
+            "id": "KS128B268Y7BGMKYZBZH",
+            "name": "Quick Response Manufacturing"
+        },
+        {
+            "type": "Hard Skill",
+            "id": "KS440QX6DG2JBQ8QDZ2V",
+            "name": "Software Manufacturing"
+        },
+        {
+            "type": "Hard Skill",
+            "id": "KS1264H758K2TKLS5C4C",
+            "name": "Manufacturing Automation"
+        },
+        {
+            "type": "Hard Skill",
+            "id": "KS1230Y649BV3DNF2RWT",
+            "name": "Discrete Manufacturing"
+        },
+        {
+            "type": "Hard Skill",
+            "id": "KS124Q16H9QXBXPMYZ1D",
+            "name": "High Tech Manufacturing"
+        },
+        {
+            "type": "Hard Skill",
+            "id": "KS1264L6NMMXLJCN6M0Y",
+            "name": "Manufacturing Resource Planning"
+        },
+        {
+            "type": "Hard Skill",
+            "id": "ESDABCAE52DA74894314",
+            "name": "Apparel Manufacturing"
+        },
+        {
+            "type": "Hard Skill",
+            "id": "KS122WQ67DS076H0LMR6",
+            "name": "Design For Manufacture And Assembly (DFMA)"
+        },
+        {
+            "type": "Hard Skill",
+            "id": "KS1227Q6Y56L0XN1X993",
+            "name": "Computer-Integrated Manufacturing"
+        },
+        {
+            "type": "Hard Skill",
+            "id": "KS121K2686S3MLGKJ2XF",
+            "name": "Cellular Manufacturing"
+        },
+        {
+            "type": "Hard Skill",
+            "id": "KS4408Q703JYSRTH4MW3",
+            "name": "SAP Manufacturing Execution (ME)"
+        },
+        {
+            "type": "Hard Skill",
+            "id": "KS127L275MQWFP42VT6C",
+            "name": "Parts Manufacturer Approval"
+        },
+        {
+            "type": "Hard Skill",
+            "id": "KS1264K6KNS0XZ5K4NGS",
+            "name": "Manufacturing Operations Management"
+        },
+        {
+            "type": "Hard Skill",
+            "id": "KS441DX6RYBSXJK24PTP",
+            "name": "Tire Manufacturing"
+        },
+        {
+            "type": "Hard Skill",
+            "id": "KS123FF71QC6681J9KPP",
+            "name": "Electronics Manufacturing Services"
+        },
+        {
+            "type": "Hard Skill",
+            "id": "KS125KB6XGBB6RDYKZWQ",
+            "name": "Joint Design Manufacturing"
+        },
+        {
+            "type": "Hard Skill",
+            "id": "KS1284J6JLXXG0DHXH2L",
+            "name": "Project Manufacturing"
+        },
+        {
+            "type": "Hard Skill",
+            "id": "KS1247N68WT6JK1R2C40",
+            "name": "Gear Manufacturing"
+        },
+        {
+            "type": "Hard Skill",
+            "id": "KS1264L6PK7JL1TQW6NC",
+            "name": "Manufacturing Systems Engineering"
+        },
+        {
+            "type": "Hard Skill",
+            "id": "KS440SW6R1G7VTZ33GZ4",
+            "name": "Space Manufacturing"
+        },
+        {
+            "type": "Hard Skill",
+            "id": "KS128CY6MFQ70PND9Q07",
+            "name": "Direct Digital Manufacturing"
+        },
+        {
+            "type": "Certification",
+            "id": "KS121NM6R984XYDG370Q",
+            "name": "Certified Manufacturing Engineer"
+        },
+        {
+            "type": "Hard Skill",
+            "id": "KS121B86FQDK0CFX4BZD",
+            "name": "Computer-Augmented Design And Manufacturing (CADAM)"
+        },
+        {
+            "type": "Hard Skill",
+            "id": "KS121X26XL5Y03QPVJ61",
+            "name": "CircuitCAM (Computer Aided Manufacturing)"
+        },
+        {
+            "type": "Hard Skill",
+            "id": "KS1264L65K538YYL9SV7",
+            "name": "Manufacturing Process Management"
+        },
+        {
+            "type": "Certification",
+            "id": "KS121NN6QDXFKYTFVTND",
+            "name": "Certified Manufacturing Technologist"
+        },
+        {
+            "type": "Certification",
+            "id": "KS122176NQ444Y91BGC0",
+            "name": "Certified Manufacturing Technologist Certification"
+        },
+        {
+            "type": "Hard Skill",
+            "id": "KS127P066Y11LCDCHV2V",
+            "name": "PeopleSoft Enterprise Manufacturing Solution"
+        },
+        {
+            "type": "Hard Skill",
+            "id": "KS120VK778WR1XMH0Y3J",
+            "name": "Baan Manufacturing"
+        }
+    ]
+}
